@@ -1,2 +1,2 @@
 sudo docker pull pycalcx/webux
-docker run -dp 8080:8080 pycalcx/webux
+docker run -d -p 8080:8080 pycalcx/webux
